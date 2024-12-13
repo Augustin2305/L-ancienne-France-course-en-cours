@@ -53,8 +53,7 @@ s’associer à Course en Cours pour susciter des vocations !"</cite><br/>messag
 message de PFA filière Automobile &mobilités partenaire officiel du projet course en cours.<br/>
 <br/>
 <img src"bougent">
-<cite>"Créée en 2005, l’association Elles Bougent a pour objectif d’encourager les lycéennes et les étudiantes à se lancer dans l’ingénierie pour promouvoir la mixité dans les entreprises des secteurs ingénieurs et industriels. Depuis 2019, Elles Bougent accompagne le grand prix des écoles et des lycées Course en Cours afin d’impliquer les lycéennes et collégiennes dans la création des véhicules de demain"</cite><br/>message de elles bougent partenaire officiel du projet course en cours.
-      
+<cite>"Créée en 2005, l’association Elles Bougent a pour objectif d’encourager les lycéennes et les étudiantes à se lancer dans l’ingénierie pour promouvoir la mixité dans les entreprises des secteurs ingénieurs et industriels. Depuis 2019, Elles Bougent accompagne le grand prix des écoles et des lycées Course en Cours afin d’impliquer les lycéennes et collégiennes dans la création des véhicules de demain"</cite><br/>message de elles bougent partenaire officiel du projet course en cours.   
       </p>
     </body>
 </html>
